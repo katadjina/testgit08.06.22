@@ -1,0 +1,13 @@
+.body {
+    background-color: green;
+}
+.name{
+    font-size: 40px;
+    color: blue;
+}
+
+.box {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
